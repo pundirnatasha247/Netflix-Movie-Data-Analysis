@@ -20,15 +20,12 @@ This project covers the full data analysis pipeline — from raw messy data to a
 - What kinds of movies are most popular?
 
 ---
-## 📊 Dashboard Preview
+<h2>📊 Dashboard Preview</h2>
 
-![Dashboard 1](dashboard_image.png)
-
-![Dashboard 2](dashboard_image2.png)
-
-![Dashboard 3](dashboard_image3.png)
-
-![Dashboard 4](dashboard_image4.png)
+<img src="dashboard_image.png" width="800"><br><br>
+<img src="dashboard_image2.png" width="800"><br><br>
+<img src="dashboard_image3.png" width="800"><br><br>
+<img src="dashboard_image4.png" width="800">
 
 ## 📁 Project Structure
 
